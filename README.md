@@ -1,0 +1,2 @@
+# nintendbot
+my discord bot
